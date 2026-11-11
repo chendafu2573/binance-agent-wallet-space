@@ -1,0 +1,19 @@
+# 真值配置，永不入库
+bridge/bridge-secret.txt
+bridge/bridge-relay.json
+
+# 桥的运行时产物
+bridge/outbox/
+bridge/results/
+bridge/*.log
+bridge/STOP
+
+# 中继本地状态
+.wrangler/
+node_modules/
+
+# 杂项
+.venv/
+__pycache__/
+.DS_Store
+*.muse-github-snapshot-sync.json

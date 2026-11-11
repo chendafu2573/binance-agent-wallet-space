@@ -1,0 +1,1 @@
+{"relay_key":"<64 位十六进制，和中继的 RELAY_KEY、看板服务端的常量三处一致>","relay_url":"https://baw-relay.<your-subdomain>.workers.dev"}
